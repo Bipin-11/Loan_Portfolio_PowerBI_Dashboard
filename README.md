@@ -1,4 +1,4 @@
-# BHPPL Loan Portfolio Dashboard — Power BI Data Analyst Assessment
+# Loan Portfolio Dashboard 
 
 A 5-page Power BI dashboard built as a data analyst project for a licensed Non-Banking Financial Company (NBFC) regulated by Nepal Rastra Bank, analyzing a 50,000-account hire purchase loan portfolio across 2-Wheeler, 4-Wheeler, 3-Wheeler, Mobile Phone, Consumer Electronics, and Personal Loan products.
 
@@ -7,7 +7,7 @@ A 5-page Power BI dashboard built as a data analyst project for a licensed Non-B
 | File | Description |
 |---|---|
 | `BHPPL_Loan_Portfolio_Dashboard.pbix` | Full Power BI report (5 pages, DAX measures, drill-downs, bookmarks) |
-| `DashBoard_Insights.pdf` | 1-page write-up: business questions prioritised, key DAX measures, and a data insight |
+| `Dashboard_Insights.pdf` | 1-page write-up: business questions prioritised, key DAX measures, and a data insight |
 | `screenshots/` | Individual page images (embedded below) |
 
 ## Dashboard Pages
